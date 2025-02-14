@@ -8,7 +8,7 @@ MobileNetV2 is a lightweight convolutional neural network architecture designed 
 
 ## Training
 ### Machine Configuration
-CPU for Colab is an Intel Xeon CPU with 2 vCPUs (virtual CPUs) and 13GB of RAM
+Intel Xeon CPU with 2 vCPUs (virtual CPUs) and 13GB of RAM
 ## Comparison of ONNX and TensorFlow Inference Time
 | Framework  | Inference Time (Mean ± Standard Deviation) |
 |------------|---------------------------------------------|
